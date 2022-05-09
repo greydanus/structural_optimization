@@ -12,7 +12,7 @@ To run this code: clone the repo, `cd` into it, and run `python stopt_200.py ` o
 
 ![terminal.png](./static/terminal.png)
 
-## More complex designs
+## Scaling to larger designs
 
 ![mbb.mp4](./static/mbb.mp4)
 
