@@ -20,8 +20,8 @@ To run this code: clone the repo, `cd` into it, and run `python stopt_200.py ` o
 
 This project uses `numpy` for dense matrix operations, `scipy` for sparse matrix operations, `matplotlib` for plotting, `autograd` for computing gradients, and `nlopt` for optimization. The only library that needs to be manually installed on Google Colab is `nlopt`.
 
-## Closing thoughts
+## Final comments
 
-In sci-fi representations of the healthy cities of the future, we often find manmade structures that are well integrated with their natural surroundings. Sometimes we even see a convergence where nature has adapted to the city and the city has adapted to nature. The more decadent cities, on the other hand, tend to define themselves in opposition to the patterns of nature. Their architecture is more blocky and inorganic. Perhaps tools like structural optimization can help us build the healthy cities of the future ….. while steering clear of the decadent ones.
+In sci-fi representations of the healthy cities of the future, we often find manmade structures that are well integrated with their natural surroundings. Sometimes we even see a convergence where nature has adapted to the city and the city has adapted to nature. The more decadent cities, on the other hand, tend to define themselves in opposition to the patterns of nature. Their architecture is more blocky and inorganic. Perhaps tools like structural optimization can help us build the healthy cities of the future ..... while steering clear of the decadent ones.
 
 ![asgard.jpeg](./static/asgard.jpeg)
