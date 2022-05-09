@@ -2,7 +2,7 @@
 
 [Blog post](https://greydanus.github.io/2022/05/08/structural-optimization/) | [Paper]() | [Colab notebook](https://bit.ly/394DUcL)
 
-![causeway.png](./static/causewway.png)
+![causeway.png](./static/causeway.png)
 
 Structural optimization lets us design trusses, bridges, and buildings starting from the physics of elastic materials. Let's code it up, from scratch, in 200 lines (forty of these lines are whitespace and comments).
 
