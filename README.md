@@ -14,6 +14,7 @@ To run this code: clone the repo, `cd` into it, and run `python stopt_200.py ` o
 
 ## Scaling to larger designs
 
+Designing the eves of a gazebo:
 ![eves.gif](./static/eves.gif)
 
 ![causeway.gif](./static/causeway.gif)
