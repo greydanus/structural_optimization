@@ -14,14 +14,23 @@ To run this code: clone the repo, `cd` into it, and run `python stopt_200.py ` o
 
 ## Scaling to larger designs
 
-Designing the eves of a gazebo:
+Designing the eves of a gazebo.
+
 ![eves.gif](./static/eves.gif)
+
+Designing a causeway bridge.
 
 ![causeway.gif](./static/causeway.gif)
 
+Designing a structure that supports a rid of offset points.
+
 ![points.gif](./static/points.gif)
 
+Designing a staircase.
+
 ![staircase.gif](./static/staircase.gif)
+
+Designing a multistory building.
 
 ![building.gif](./static/building.gif)
 
