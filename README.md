@@ -1,4 +1,4 @@
-# Fast Structural Optimization in 200 Lines
+# Fast Structural Optimization in 200 Lines of Python
 
 [Blog post](https://greydanus.github.io/2022/05/08/structural-optimization/) | [Paper]() | [Colab notebook](https://bit.ly/394DUcL)
 
