@@ -14,7 +14,15 @@ To run this code: clone the repo, `cd` into it, and run `python stopt_200.py ` o
 
 ## Scaling to larger designs
 
-![mbb.mp4](./static/mbb.mp4)
+![eves.gif](./static/eves.gif)
+
+![causeway.gif](./static/causeway.gif)
+
+![points.gif](./static/points.gif)
+
+![staircase.gif](./static/staircase.gif)
+
+![building.gif](./static/building.gif)
 
 ## Dependencies
 
