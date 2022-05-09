@@ -22,7 +22,7 @@ Designing a causeway bridge:
 
 ![causeway.gif](./static/causeway.gif)
 
-Designing a structure that supports a rid of offset points:
+Designing a structure that supports a grid of offset points:
 
 ![points.gif](./static/points.gif)
 
